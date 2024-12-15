@@ -1,0 +1,3 @@
+def my_sample():
+    print('my name')
+my_sample()
